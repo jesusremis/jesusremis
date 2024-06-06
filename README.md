@@ -1,7 +1,7 @@
 # ¡Hola! 
 Soy Jesús, estoy estudiando programación, Python y ahora GIT y GitHub.
 
-Empezando y creando ya.
+Empezando y creando ya. Échale un ojo a mis proyectos.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusremis/) 
